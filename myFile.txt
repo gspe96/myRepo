@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 myFile en master
-=======
-Modificacion myBranch
->>>>>>> myBranch
